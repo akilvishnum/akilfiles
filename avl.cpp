@@ -9,6 +9,7 @@ int data;
 struct avlnode * l;
 struct avlnode * r;
 }*root;
+cout<<"Nan than goppan daww";
 
 class avlTree
 {
